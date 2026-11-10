@@ -1,0 +1,17 @@
+*{ 
+    padding: 0;
+    margin: 0;
+
+}
+b{ 
+    font-size: 100px;
+
+}
+.inicio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
